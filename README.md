@@ -52,7 +52,7 @@ To use this application, navigate to the deployed application at https://floatin
 - Node.js
 - Express.js
 - Mongo DB
-- Monog DB Atlas
+- Mongo DB Atlas
 - Mongoose
 - Indexed DB
 - Service Workers
